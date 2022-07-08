@@ -597,7 +597,6 @@ async function do_submit(block, submit_opts, wait_step_name) {
 
 debugger;
 $(document).ready(() => {
-  debugger;
   disable_followup_steps()
   setup_generate_step()
   setup_connect_step()
