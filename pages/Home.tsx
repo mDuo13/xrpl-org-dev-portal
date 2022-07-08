@@ -4,7 +4,7 @@ import benefits from './home-benefits.yaml';
 import adfeatures from './home-advanced-features.yaml';
 import newfeatures from './home-new-features.yaml';
 import getstarted from './home-get-started.yaml';
-import { XRPLCard } from '../components/XRPLCard.tsx';
+import { XRPLCard } from '../_components/XRPLCard.tsx';
 
 export default function XRPLHome() {
   return (

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import slugify from 'slugify';
+import slugify from './slugify.tsx';
 
 export function StepWrapper({ steps, stepIdx, children }) {
   const label = steps[stepIdx];
